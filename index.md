@@ -2,44 +2,15 @@
 layout: default
 ---
 
-## About Me
+I have been teaching Meditation for many years and in many forms. Recently I trained as a Reiki practitioner. I have passed Level 2 and intend to take the Masters Level next year. I have found that using meditation with relaxation breathing helps the person to experience the benefit of the Reiki energy.
 
-<img class="profile-picture" src="sherlock.jpg">
+I follow the Japanese method of Reiki founded byMikao Usui. It is said that the Western method of Reiki came from the Japanese. Usui set up a method of healing that had been used for centuries. He believed that breathing in the right way aids relaxation and with meditation is the key to the enhanced flow of Reiki. Reiki has manifest qualities. First it is a healing system but also will help the individual increase self awareness, insight and personal growth. Relaxation decreases anxiety and stress and lowers the blood pressure. After a session a person can feel energised and happy.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+The application of Reiki is simple. the person lies on a bed and the practitioner places her hands on the recipient. The practitioner moves her hands slowly as she feels the energy flow. As she moves her hands she may be able to feel if there are any problems that are causing pain or anxiety. When she has finished she allows the recipient to wake up slowly until she feels ready to open her eyes.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+So if anyone reading this feels that they would benefit from a session of Reiki then email me at:
 
-## Research Interest
+Best wishes Susanne Trevorrow.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+All sessions will take place in Market Harborough, Leicestershire. Only Female clients will be considered.

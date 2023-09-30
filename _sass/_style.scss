@@ -1,5 +1,5 @@
 @import "vars";
-
+@import url('https://fonts.cdnfonts.com/css/sura');     
 /*
  * Basic
  */
@@ -8,11 +8,19 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
+    background-color: white;
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: 'Sura', sans-serif; 
     height: 100%;
+    margin-bottom: 10px;
+    text-align: justify;
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: .02em;
+    line-height: 1.6em;
+    color: black;
 }
 a {
     text-decoration: none;
